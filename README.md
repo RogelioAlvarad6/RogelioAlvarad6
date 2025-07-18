@@ -88,6 +88,8 @@ I'm passionate about building secure, scalable systems — whether that means de
   <sub>Microsoft Certified: Azure Fundamentals (AZ-900)</sub>
 </p>
 
+--------------------------------------------------------------------------------
+
 Thanks for visiting! Feel free to scroll down and check out some of my work 👇
 
 <!--
