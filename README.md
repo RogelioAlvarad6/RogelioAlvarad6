@@ -1,7 +1,10 @@
 ## Hi there, I'm Rogelio Alvarado-Diaz
 
 🎓 I'm currently pursuing a **Software Engineering** degree at **Iowa State University**, with a **minor in Cybersecurity Engineering**. My interests sit at the intersection of **cloud infrastructure**, **cybersecurity**, and **full-stack development**.
+
 I'm passionate about building secure, scalable systems — whether that means deploying web apps to the cloud, configuring network firewalls, or automating DevOps pipelines.
+
+--------------------------------------------------------------------------------
 
 ### 🌟 Quick Highlights
 
@@ -12,39 +15,78 @@ I'm passionate about building secure, scalable systems — whether that means de
 - 🛠️ Building projects that involve Raspberry Pi, setting up a homelab, and secure network setups.
 - 🌎 Passionate about learning the latest emergence in technology.
 
----
+--------------------------------------------------------------------------------
 
 ### 💻 Skills & Tools
 
 #### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-</p>
+
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></td>
+  </tr>
+  <tr align="center">
+    <td>Python</td>
+    <td>C</td>
+    <td>C++</td>
+    <td>Java</td>
+    <td>JavaScript</td>
+  </tr>
+</table>
 
 #### 🧠 Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure Cosmos DB" />
-</p>
+
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/></td>
+  </tr>
+  <tr align="center">
+    <td>MySQL</td>
+    <td>MongoDB</td>
+    <td>Azure (Cosmos DB, etc.)</td>
+  </tr>
+</table>
 
 #### 🐧 OS & Dev Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</p>
+
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/></td>
+  </tr>
+  <tr align="center">
+    <td>Linux</td>
+    <td>Git</td>
+  </tr>
+</table>
 
 #### 🧰 IDEs & Editors
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" />
-</p>
 
----
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50"/></td>
+  </tr>
+  <tr align="center">
+    <td>VS Code</td>
+    <td>Vim</td>
+  </tr>
+</table>
+
+--------------------------------------------------------------------------------
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100"/><br>
+  <sub>Microsoft Certified: Azure Fundamentals (AZ-900)</sub>
+</p>
 
 Thanks for visiting! Feel free to scroll down and check out some of my work 👇
 
