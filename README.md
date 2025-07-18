@@ -12,7 +12,7 @@ I'm passionate about building secure, scalable systems — whether that means de
 - ☁️ **Cloud Engineering** focused on Azure, infrastructure as code, disaster recovery, hybrid cloud environments, and automation.
 - 💻 Skilled in **Python**, **C/C++**, **Java**, and **JavaScript (React)**.
 - 🧪 Currently preparing for **AZ-104** and **CCNA**, and real-world project deployments.
-- 🛠️ Building projects that involve Raspberry Pi, setting up a homelab, and secure network setups.
+- 🛠️ Building projects that involve my Raspberry Pi, setting up a homelab, and secure network setups for a self-hosted personal website.
 - 🌎 Passionate about learning the latest emergence in technology.
 
 --------------------------------------------------------------------------------
