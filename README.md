@@ -49,7 +49,7 @@ I'm passionate about building secure, scalable systems — whether that means de
   <tr align="center">
     <td>MySQL</td>
     <td>MongoDB</td>
-    <td>Azure (Cosmos DB, etc.)</td>
+    <td>Azure</td>
   </tr>
 </table>
 
